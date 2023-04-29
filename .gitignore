@@ -1,0 +1,5 @@
+http-client/dist
+http-client/node_modules
+product-microservice/node_modules
+product-microservice/.env
+
